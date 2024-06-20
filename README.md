@@ -1,12 +1,12 @@
 # README
-## Hi there, I'm Muhammad Zafar 👋
-### About Me
+ Hi there, I'm Muhammad Zafar 👋
+About Me
 🎓 Graduate: Virtual University of Pakistan, major in Software Engineering.
  🧑‍💻 Experience: Web Design, UI/UX, and Software Quality Assurance (Manual/Automation).
  💻 Passion: Creating seamless user experiences and ensuring software excellence.
  🌱 Currently Learning: Web Flow, WordPress CMS and JIRA 
  🎯 Goal: To contribute to innovative projects that make a real impact.
-####  Skills
+---------------- SkillsN----------------
 ##### 🖥️ Web Development
 Languages: HTML5, CSS3, JavaScript, PHP, MySQL
 Frameworks: Bootstrap, Tailwind.
