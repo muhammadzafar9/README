@@ -18,10 +18,12 @@ Skills: Wireframing, Prototyping, User Research
 Manual Testing: Test Planning, Execution, Reporting
 Automation Testing: Cypress, Postman
 Agile Methodologies: Working knowledge of Agile practices
-########  Get in Touch
+
+########   Get in Touch
  💼 [LinkedIn] https://www.linkedin.com/in/muhammad-zafar-0ba70312b
  📧 marwatzafar216@gmail.com
-#########  Goals
+ 
+#########   Goals
 🌟 Continuously learn and improve my skills.  
 🚀 Develop innovative solutions to complex problems.  
 🤝 Collaborate with talented professionals to create outstanding products.
